@@ -1,0 +1,17 @@
+metric,value
+total_runtime,2136.66
+url_download,2108.06
+thread_distribution,0.00
+thread_execution,22.76
+word_count_total,0.77
+top_words_total,4.77
+longest_word_total,2.47
+sentence_count_total,1.15
+char_freq_total,0.46
+palindrome_total,0.91
+word_len_dist_total,0.60
+word_start_char_total,1.15
+avg_word_len_total,0.66
+urls_processed,18
+urls_failed,0
+total_bytes,9000
